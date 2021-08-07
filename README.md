@@ -1,19 +1,16 @@
 <html>
   <head>
-    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">    
     <style>
-      h1 {
-        font-family: 'Amatic SC', serif;
+      body {
+        font-family: 'Amatic SC', cursive;
         font-size: 48px;
       }
     </style>
   </head>
   <body>
-    <h1>SIANJEEVI MUTHUSAMY</h1>😉
-
-- 👋 Hi, I’m @siran-1
-- 👀 I’m interested in learning new tools, networking, cyber security - technologies are mind blowing...
-- 🌱 I’m currently learning python, docker, git and cloud...
-
+    <div>Making the Web Beautiful!</div>
   </body>
 </html>
