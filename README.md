@@ -95,7 +95,7 @@ I believe I can do it </h4>
 
 <br/>
 <hr/>
-##<img src="https://www.clipartmax.com/png/middle/333-3336322_random-guy-calls-me-cute-gt-random-cartoon-guy-png.png" alt="Girl in a jacket" width="200" height="200">
+##<img src="https://static1.fjcdn.com/comments/Not+hating+on+the+game+i+love+that+just+_379d6a42c8c25c0084b55a3ca6388a61.png" alt="say hello!" width="200" height="180">
 
   <h1>  Let's Connect </h1>
 <p align="center">
