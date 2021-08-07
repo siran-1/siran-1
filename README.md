@@ -106,11 +106,12 @@ I believe I can do it </h4>
 </p>
 
 <hr/>
-
+<p align ="left">
 * Credit: 
 [Candida18](https://github.com/Candida18)<br/>
 [DenverCoder1](https://github.com/DenverCoder1)
-	</samp>
+</p>
+</samp>
 
 
 
