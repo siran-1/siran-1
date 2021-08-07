@@ -95,7 +95,7 @@ I believe I can do it </h4>
 
 <br/>
 <hr/>
-##<img src="https://static1.fjcdn.com/comments/Not+hating+on+the+game+i+love+that+just+_379d6a42c8c25c0084b55a3ca6388a61.png" alt="say hello!" width="200" height="180">
+<img src="https://image.pngaaa.com/3/522003-middle.png" alt="say hello!" width="200" height="180">
 
   <h1>  Let's Connect </h1>
 <p align="center">
