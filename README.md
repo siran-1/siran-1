@@ -1,4 +1,3 @@
-<samp>
     <h1 align="center">Hello, I'm Siranjeevi Muthusamy  🤪 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -9,7 +8,6 @@
     I believe I can do it </h4>
     <br>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=siran-1&label=Profile%20views&color=0e75b6&style=plastic" alt="siran-1" /> </p>
-    
     <!--## 🔥 Streak Stats
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siran-1&theme=algolia" alt="siran-1"  /></p>
     -->
@@ -110,7 +108,6 @@
     [Candida18](https://github.com/Candida18)<br/>
     [DenverCoder1](https://github.com/DenverCoder1)
     </p>
-    </samp>
     
     
     
