@@ -13,7 +13,7 @@
     <!--## 🔥 Streak Stats
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siran-1&theme=algolia" alt="siran-1"  /></p>
     -->
-    ##  💪 My Skills
+    ### 💪 My Skills
     
     ### 👨🏾‍💻 Programming languages
     
@@ -24,7 +24,7 @@
       </a>
       &emsp;
     </p>
-    
+
     ### ⛏ Frontend 
     <p align="left"> 
       &emsp; 
