@@ -12,7 +12,7 @@ I believe I can do it </h4>
 <!--## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siran-1&theme=algolia" alt="siran-1"  /></p>
 -->
-### 💪 My Skills
+## 💪 My Skills
 
 ### 👨🏾‍💻 Programming languages
 
@@ -92,7 +92,7 @@ I believe I can do it </h4>
 
 <br/>
 <hr/>
-## 👦<h3>  Let's Connect </h3>
+## 👦<h1>  Let's Connect </h1>
 <p align="center">
     <a href="mailto:siranjeevik21@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://github.com/siran-1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
