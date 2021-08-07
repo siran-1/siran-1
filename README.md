@@ -1,11 +1,10 @@
 <html>
   <head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">    
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
     <style>
       body {
-        font-family: 'Amatic SC', cursive;
+        font-family: 'Tangerine', serif;
         font-size: 48px;
       }
     </style>
