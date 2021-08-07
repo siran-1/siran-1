@@ -1,3 +1,4 @@
+<body bgcolor="grey">
 <samp>
   <h1 align="center">Hello, I'm Siranjeevi Muthusamy  🤪 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -115,3 +116,4 @@ I believe I can do it </h4>
 [DenverCoder1](https://github.com/DenverCoder1)
 </p>
 </samp>
+</body>
