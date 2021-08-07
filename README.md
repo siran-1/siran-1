@@ -1,20 +1,18 @@
-<body bgcolor="grey">
 <samp>
-  <h1 align="center">Hello, I'm Siranjeevi Muthusamy  🤪 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Hello, I'm Siranjeevi Muthusamy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">🤪</h1> 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Internet+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center" style="font-family:courier;">Computer Application student..Currently working as Subject Matter Expert at Amazon in CS-Operations. I know I'm not working in the relevant field, but still trying to get into IT - learning things, programming, Tools -
-I believe I can do it </h4>
+<h4 align="center" style="font-family:courier;">Computer Application student. Currently working as Subject Matter Expert at Amazon in CS-Operations. I know I'm not working in the relevant field, trying to get in as Software Engineer - learning things, programming, Tools - I believe I can do it </h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siran-1&label=Profile%20views&color=0e75b6&style=plastic" alt="siran-1" /> </p>
 <!--## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siran-1&theme=algolia" alt="siran-1"  /></p>
 -->
 
-  💪 My Skills
+### 💪 My Skills
   <hr style="width:50%;text-align:left;margin-left:0">
 
 
@@ -96,7 +94,7 @@ I believe I can do it </h4>
 
 <br/>
 <hr/>
-<img src="https://image.pngaaa.com/3/522003-middle.png" alt="say hello!" width="200" height="180">
+<img src="https://images.squarespace-cdn.com/content/v1/528252b7e4b00150d03a4848/1503802786036-ZOOD48EI07ZEY2B3N3I9/RickAndMorty_RickAngryBurp1500.gif?format=500w" alt="say hello!" width="200" height="180">
 
   <h1>  Let's Connect </h1>
 <p align="center">
@@ -116,4 +114,3 @@ I believe I can do it </h4>
 [DenverCoder1](https://github.com/DenverCoder1)
 </p>
 </samp>
-</body>
