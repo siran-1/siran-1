@@ -93,7 +93,7 @@ I believe I can do it </h4>
 </details> -->
 
 <br/>
-<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F852165560729391506%2F&psig=AOvVaw0yzl9nHqXPtJK1IuJwIoN5&ust=1628432513064000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjKof2Nn_ICFQAAAAAdAAAAABAD" width="50px">
+<hr/>
 ## 👦 Let's Connect
 <p align="center">
 	<a href="mailto:siranjeevik21@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
