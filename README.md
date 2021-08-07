@@ -12,7 +12,10 @@ I believe I can do it </h4>
 <!--## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siran-1&theme=algolia" alt="siran-1"  /></p>
 -->
-## 💪 My Skills
+
+  💪 <h2>My Skills</h2>
+  <hr style="width:50%;text-align:left;margin-left:0">
+
 
 ### 👨🏾‍💻 Programming languages
 
