@@ -13,7 +13,7 @@ I believe I can do it </h4>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siran-1&theme=algolia" alt="siran-1"  /></p>
 -->
 
-  💪 <h2>My Skills</h2>
+  💪 My Skills
   <hr style="width:50%;text-align:left;margin-left:0">
 
 
