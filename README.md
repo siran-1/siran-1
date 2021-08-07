@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Internet+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center" style="font-family:georgia,garamond,serif;">Computer Application student..Currently working as Subject Matter Expert at Amazon in CS-Operations. I know I'm not working in the relevant field, but still trying to get into IT - learning things, programming, Tools -
+<h4 align="center" style="font-family:courier;">Computer Application student..Currently working as Subject Matter Expert at Amazon in CS-Operations. I know I'm not working in the relevant field, but still trying to get into IT - learning things, programming, Tools -
 I believe I can do it </h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siran-1&label=Profile%20views&color=0e75b6&style=plastic" alt="siran-1" /> </p>
@@ -94,7 +94,7 @@ I believe I can do it </h4>
 
 <br/>
 <hr/>
-## 👦 Let's Connect
+## 👦<h3  Let's Connect
 <p align="center">
 	<a href="mailto:siranjeevik21@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/siran-1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -108,7 +108,7 @@ I believe I can do it </h4>
 <hr/>
 
 * Credit: 
-[Candida18](https://github.com/Candida18)
+[Candida18](https://github.com/Candida18)<br/>
 [DenverCoder1](https://github.com/DenverCoder1)
 
 
