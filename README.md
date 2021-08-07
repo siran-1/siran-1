@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Internet+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-</samp>	
 <hr/>
 <h4 align="center" style="font-family:courier;">Computer Application student..Currently working as Subject Matter Expert at Amazon in CS-Operations. I know I'm not working in the relevant field, but still trying to get into IT - learning things, programming, Tools -
 I believe I can do it </h4>
@@ -111,7 +110,7 @@ I believe I can do it </h4>
 * Credit: 
 [Candida18](https://github.com/Candida18)<br/>
 [DenverCoder1](https://github.com/DenverCoder1)
-
+	</samp>
 
 
 
